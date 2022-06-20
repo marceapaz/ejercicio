@@ -7,3 +7,6 @@ def c_mayusculas (cadena):
         if i != i.lower(): #Recordar que lower() convierte una cadena en minúsculas
             cont += 1
     print ("La_cadena_tiene"), cont, "mayuscula/s"
+
+    print("marceloapaz")
+    
